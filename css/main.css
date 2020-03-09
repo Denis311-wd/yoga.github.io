@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+
+
+}
+
+.div {
+    width: 1000px;
+
+}
+.raz img {
+    display: im; /* смещает только блоки */
+    margin-right:auto ;
+}
+.blockSpan{
+    display: block;
+}
